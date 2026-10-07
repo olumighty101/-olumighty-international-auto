@@ -1,2 +1,2 @@
-# -olumighty-international-auto
+# olumightyinternationalauto
     Olumighty International Auto website
